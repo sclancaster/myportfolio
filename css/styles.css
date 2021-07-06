@@ -30,23 +30,23 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
   font-weight: 450;
   font-size: 1.5rem;
   line-height: 1.2;
   color: #f8f9fa;
 }
 .masthead-full-name {
-  font-family: 'Anton', sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
   text-transform: uppercase;
-  font-size: 2.75rem;
+  font-size: 2.5rem;
 }
 .last-name-highlight {
   color: #f8f9fa;
 }
 @media (max-width: 576px) {
   .masthead-full-name {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
     text-transform: uppercase;
     font-size: 2rem;
   }
@@ -75,7 +75,7 @@ header.masthead {
 }
 
 .subheading {
-  font-family: 'Anton', sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 1.2rem;
@@ -83,7 +83,7 @@ header.masthead {
 
 .cv-titles {
   margin-bottom: 0.5rem;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
   font-weight: 450;
   line-height: 1.2;
   color: #343a40;
@@ -326,10 +326,11 @@ header.masthead {
   color: #f8f9fa;
   font-weight: 700;
   letter-spacing: 0.0625em;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 0.95rem;
   color:lightgray;
   letter-spacing: 0.0625em;
@@ -361,7 +362,7 @@ header.masthead {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #eadfc9;
+    background-color: #6c757d;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
