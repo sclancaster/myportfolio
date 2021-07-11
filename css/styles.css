@@ -17,7 +17,7 @@ a {
   color: #f8f9fa;
 }
 a:hover {
-  color: #93ada4;
+  color:#f8f9fa;
   text-decoration: none;
 }
 
@@ -53,7 +53,7 @@ header.masthead {
 }
 
 .bg-primary {
-  background-color:#eadfc9 !important;
+  background-color: #6c757d !important;
 }
 
 .img-profile {
@@ -94,7 +94,7 @@ header.masthead {
 }
 
 .text-primary {
-  color: #f3a14b !important;
+  color: #343a40 !important;
 }
 
 .text-dark {
